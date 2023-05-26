@@ -1,0 +1,10 @@
+.navbar h2{
+    text-align: center;
+    height: 10vh;
+}
+.navbar{
+    background: #000000
+}
+.navbar *{
+    color: white;
+}
